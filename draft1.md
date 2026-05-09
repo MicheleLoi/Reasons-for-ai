@@ -42,6 +42,8 @@ The empirical literature on confabulation (Nisbett & Wilson 1977; choice blindne
 - *Externalist intuition preserved*: the screening system is built to track features of situations — others' pain, consistency, fairness — so the *content* of the justifications it produces is world-directed. In deliberation the agent rightly attends to your pain, not to herself.
 - *The criterion, stated symmetrically*: an agent (human or artificial) has reasons in the relevant sense iff (i) it instantiates a justification-producing-and-screening system, and (ii) that system is causally upstream of its action-generation, not merely a rendering downstream of it.
 
+To flag and not resolve here: the second of the three preserved intuitions does the most work, and it is also the one the framework most exceeds its source on. Mercier and Sperber's architectural claim is the production-and-screening structure; their wider account is partly deflationary — reasoning evolved for argumentative persuasion, is confirmation-biased, and does not paradigmatically track truth in the individual case. The claim that the screening system *tracks features of situations* (others' pain, fairness, consistency) is needed to preserve the externalist intuition and to deliver the symmetric criterion above. Whether the cited architecture can carry that content-tracking weight is the most significant unresolved question in §5.
+
 ## §6. Mapping the framework to LLMs
 
 ### §6.1 Why reasons matter — LLM version
