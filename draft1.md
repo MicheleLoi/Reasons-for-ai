@@ -123,11 +123,11 @@ These are the points where the analogy strains and the paper marks them as open,
 
 ## Open issues, in priority order
 
-1. **The deflationary tension in §5b — dissolved.** The tension obtained only on the original truth-tracking formulation; once content-directedness is meta-semantically grounded (Putnam, Burge, Kripke; Cappelen & Dever et al. for the LLM extension), the screening system does not need to track truth in the individual case, and M&S's deflationary side is no longer in conflict with the externalist preservation. The two moves are orthogonal: externalism handles aboutness, M&S handles the cognitive-operation criterion (production-and-screening, with screening causally upstream of behavior). 
-2. **"Causally upstream" needs a mechanism (§5a, §6.5b).** The criterion is asserted; the paper needs a story about how screening exerts causal grip on action-generation. The same question recurs for LLM chain-of-thought.
-3. **The §6.3 asymmetry.** The LLM analogue of §3 is weaker than §3 itself: phenomenology is replaced by output structure, and output structure is what training is optimized to produce. The paper should mark this asymmetry rather than treat the two §3-style arguments as on a par.
-4. **§3 strategy formalized.** The phenomenological observation motivates the third way; it is not offered as a refutation of Williams. The paper should make this stance explicit at §3 and again where §5b retains the internalist intuition.
-5. **The disanalogies in §6.6** may be corrosive enough that the §6.5b criterion is satisfied in form but not in substance for LLMs. Whether to weaken the symmetric criterion or accept attenuated LLM applicability is a decision the paper has to make rather than defer.
+
+1. **"Causally upstream" needs a mechanism (§5a, §6.5b).** The criterion is asserted; the paper needs a story about how screening exerts causal grip on action-generation. The same question recurs for LLM chain-of-thought.
+2. **The §6.3 asymmetry.** The LLM analogue of §3 is weaker than §3 itself: phenomenology is replaced by output structure, and output structure is what training is optimized to produce. The paper should mark this asymmetry rather than treat the two §3-style arguments as on a par.
+3. **§3 strategy formalized.** The phenomenological observation motivates the third way; it is not offered as a refutation of Williams. The paper should make this stance explicit at §3 and again where §5b retains the internalist intuition.
+4. **The disanalogies in §6.6** may be corrosive enough that the §6.5b criterion is satisfied in form but not in substance for LLMs. Whether to weaken the symmetric criterion or accept attenuated LLM applicability is a decision the paper has to make rather than defer.
 
 ---
 
