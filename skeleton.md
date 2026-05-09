@@ -69,7 +69,7 @@ Skeleton only. Argument structure, tensions, and to-dos surfaced rather than smo
 
 **Tensions / open — load-bearing weaknesses of the paper**
 
-1. **The deflationary tension in Mercier–Sperber.** M&S's wider account is partly deflationary: reasoning evolved for argumentative persuasion, is confirmation-biased, and does not paradigmatically track truth in the individual case. The paper has weakened its earlier formulation accordingly: it no longer says the screening system "tracks features of situations," only that the *intentional content* of justifications is world-directed. Whether even this weaker claim is supported by the M&S architecture is the most significant unresolved question. *Highest priority. The framework rests on this.*
+1. **The deflationary tension in Mercier–Sperber — partially addressed by the externalist move.** M&S's wider account is partly deflationary: reasoning evolved for argumentative persuasion, is confirmation-biased, and does not paradigmatically track truth in the individual case. The paper has weakened its earlier formulation accordingly: it no longer says the screening system "tracks features of situations," only that the *intentional content* of justifications is world-directed. The grounding for that weaker claim is now meta-semantic: standard semantic externalism (Putnam 1975; Burge 1979, 1993; Kripke 1980) fixes content via causal-historical chains and the social division of linguistic labour, not via the speaker's individual reliability. The M&S architecture no longer has to carry content-directedness on its own. What remains: confirm that this offloading is principled rather than evasive, and decide what work the M&S architecture is left doing once content-directedness is meta-semantically secured.
 
 2. **The "screening is causally upstream" claim is asserted, not shown.** No mechanism is given by which screening exerts causal grip on action-generation, in humans or in LLMs. The paper waves at empirical work as if it will deliver this. The actual evidence is contested: choice-blindness and confabulation results suggest screening sometimes fails.
 
@@ -78,7 +78,7 @@ Skeleton only. Argument structure, tensions, and to-dos surfaced rather than smo
 4. **The §3 objection to internalism is not refuted, only restated.** See §3 to-do — handled by reframing §3 as motivation rather than refutation.
 
 **To-do (in priority order for the §5 argument)**
-- (a) Resolve the deflationary tension. Either: (i) defend a non-deflationary reading of M&S supported by the screening operation; (ii) retain the current weakening ("intentional content is world-directed" without claiming truth-tracking) and verify it suffices; or (iii) supplement M&S with another account that delivers content-directedness.
+- (a) Confirm that grounding content-directedness in semantic externalism (rather than in the M&S architecture) is principled, not evasive. Decide what role the M&S architecture is left playing. (Replaces the earlier "resolve the deflationary tension" item; that tension is now offloaded to meta-semantics via Putnam, Burge, Kripke.)
 - (b) Provide a mechanism for "screening upstream of action."
 - (c) Defend or weaken the internalization step.
 - (d) Confirm §3's strategy (the phenomenological datum motivates the third way; §3 is not offered as a refutation of Williams).
@@ -102,7 +102,7 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 ### §6.3 Problem for LLM-internalism — output phenomenology
 - When an LLM produces a justification ("I won't help because this could enable harm"), the content is world-directed. The internalist re-description ("the model emits this because RLHF shaped it to") evacuates the content of the justification.
 
-**Tension — load-bearing.** §6.3 is structurally parallel to §3 but meaningfully weaker. §3 leans on phenomenology; §6.3 has only output structure. But output structure is precisely what next-token prediction trained on human justificatory discourse is optimized to produce, regardless of whether anything internal corresponds to world-directedness. The mimicry concern has no equally strong counterpart in §3. The asymmetry is genuine and needs to be marked rather than smoothed over.
+**Tension — load-bearing.** §6.3 is structurally parallel to §3 but meaningfully weaker. §3 leans on phenomenology; §6.3 has only output structure. But output structure is precisely what next-token prediction trained on human justificatory discourse is optimized to produce, regardless of whether anything internal corresponds to world-directedness. The mimicry concern has no equally strong counterpart in §3. The asymmetry is genuine. The §6.5b externalist meta-semantics (Cappelen & Dever 2021, 2025; Mandelkern & Linzen 2023; Mollo & Millière 2023) is the response: content-directedness is fixed at the meta-semantic level via causal-historical chains running through the training corpus, not read off output structure. On this construal the response to mimicry is symmetric with §5b for both humans and LLMs, and the §3/§6.3 asymmetry is less load-bearing than it first appears.
 
 ### §6.4 Problem for LLM-externalism — computational gap
 - The forward pass is the only causal route from input to output. An "external reason" that does not engage the computation cannot affect behavior. Same gap as in the human case.
@@ -122,6 +122,8 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 - *Internalist intuition preserved*: nothing moves the model that does not pass through its computational architecture.
 - *Externalist intuition preserved*: the *intentional content* of the justifications is world-directed because the system was trained on world-directed justifications. As in §5b: directedness, not reliable truth-tracking.
 - *Single criterion, applied*: an LLM has reasons iff (i) it instantiates a justification-producing-and-screening system, and (ii) that system is causally upstream of its action-generation. Same criterion as §5b. Reduces to an interpretability question.
+
+**Externalist meta-semantic precedent.** The externalist preservation is not analogically extended from §5b; the same move has been made directly for LLMs by Cappelen & Dever (2021, 2025), Mandelkern & Linzen (2023), and Mollo & Millière (2023). Core argument: an LLM is trained on a corpus produced by speakers already in causal-historical contact with the world; training places the model in mediated causal-historical contact with the same referents; the content of its outputs inherits world-directedness from the corpus. This answers Bender & Koller (2020) without conceding that "picking out a referent when presented with physical alternatives" is the relevant standard for content-bearing. The paper adopts this as a precedent, not as its own contribution. What the paper adds is the linkage to M&S: externalist meta-semantics tells us LLM outputs are *about* features of the world; M&S tells us *what kind of cognitive operation* produces them; the symmetric criterion brings these together.
 
 ### §6.6 Disanalogies (load-bearing — do not paper over)
 
@@ -162,7 +164,7 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 ## Master to-do list
 
 ### Argumentative
-1. Resolve the M&S deflationary tension (§5 to-do (a)). **Highest priority — the framework rests on this.**
+1. Confirm that grounding content-directedness in semantic externalism (rather than in M&S) is principled, not evasive; decide what work the M&S architecture is left doing (§5 to-do (a)). *The M&S deflationary tension is now offloaded to meta-semantics; this is the residue.*
 2. Provide a mechanism for "screening causally upstream of action" (§5 to-do (b)).
 3. Confirm §3 strategy: phenomenological datum motivating the third way, not refutation of Williams.
 4. Engage interpretability work on chain-of-thought faithfulness (§6 to-do (a)).
@@ -175,7 +177,10 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 - Parfit (2011), Scanlon (2014), Nagel (1970).
 - Mercier & Sperber (2011, 2017). Crucially: their own claims about the function of reasoning, especially the deflationary side.
 - Nisbett & Wilson (1977); choice-blindness and split-brain literature.
-- *No further authors at this stage. Additions only at the author's request.*
+- **Semantic externalism (added for §5b/§6.5b grounding):** Putnam (1975), Burge (1979, 1993), Kripke (1980).
+- **LLM meta-semantics, externalist (added as precedent for §6.5b):** Cappelen & Dever (2021, *Making AI Intelligible*; 2025, *Going Whole Hog*, arXiv:2504.13988); Mandelkern & Linzen (2023); Mollo & Millière (2023).
+- **LLM meta-semantics, opposing position (target of the externalist reply):** Bender & Koller (2020).
+- *No further authors beyond the above. Additions only at the author's request.*
 
 ### Structural
 - Decide on §7 inclusion.
@@ -185,4 +190,4 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 
 ## Note for Mercier
 
-The framework leans heavily on the architectural claim from *The Enigma of Reason* (production + screening, primarily social, internalized). The paper has weakened its earlier formulation: it no longer asserts that the screening system *tracks* features of situations, only that the *intentional content* of justifications is world-directed (the deliberating agent attends to your pain rather than to herself). Whether even this weaker claim is a faithful extension of your view, a defensible departure, or a misuse of the architecture is the question on which the paper most needs your judgment. The §5 to-do (a) is the place in the paper where this is decided.
+The framework leans heavily on the architectural claim from *The Enigma of Reason* (production + screening, primarily social, internalized). The paper has weakened its earlier formulation: it no longer asserts that the screening system *tracks* features of situations, only that the *intentional content* of justifications is world-directed (the deliberating agent attends to your pain rather than to herself). Content-directedness on this weaker reading is grounded meta-semantically — via standard semantic externalism (Putnam, Burge, Kripke) and its application to LLMs (Cappelen & Dever and others) — rather than via your architectural claim. The deflationary side of your view therefore no longer threatens the externalist preservation in §5b. The remaining question on which the paper most needs your judgment is what role the production-and-screening architecture is left playing once content-directedness is offloaded to meta-semantics: is the architecture doing independent work on the cognitive-operation side (the "what kind of operation produces these outputs" question), or has the externalist move taken over the explanatory burden in a way that thins your contribution to the framework? The §5 to-do (a) is the place in the paper where this is decided.
