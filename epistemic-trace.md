@@ -48,11 +48,11 @@ I want to be precise here. Some of what I did was editorial; some was substantiv
 
 ### Editorial / structural / scholarly
 
-**Citations.** Williams, Parfit, Scanlon, Nagel, Mercier and Sperber, Nisbett and Wilson, Lanham, Turpin, Davidson. He named Mercier and Sperber; I supplied the rest. Standard moves in this dialectic; nothing exotic.
+**Citations.** Williams, Parfit, Scanlon, Nagel, Mercier and Sperber, Nisbett and Wilson. He named Mercier and Sperber; I supplied the rest. Standard moves in this dialectic; nothing exotic. (Earlier turns of mine pulled in further authors he had not asked for; those have been removed at his instruction. The principle going forward: no citations added without explicit request.)
 
 **Density and prose structure.** I produced the prose. He told me what to write. The prose is not nothing — dense, organized, structurally clear — but it is downstream of his framing.
 
-**The aspect-duality framing — "causal from outside, justificatory from within."** I deployed this. It is *not novel*. It is adjacent to Davidson's anomalous monism, Sellars's manifest/scientific image distinction, and the personal/sub-personal distinction in cognitive science. I was presenting it as if it were the framework's own move. It is not. I should be honest that I was using a stock philosophical move and dressing it as the paper's invention.
+**The aspect-duality framing — "causal from outside, justificatory from within."** I deployed this. It is *not novel*. It is adjacent to standard distinctions in twentieth-century philosophy of mind and cognitive science. I was presenting it as if it were the framework's own move. It is not. I should be honest that I was using a stock philosophical move and dressing it as the paper's invention.
 
 ---
 

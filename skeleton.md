@@ -11,12 +11,8 @@ Skeleton only. Argument structure, tensions, and to-dos surfaced rather than smo
 - Therefore: an account of what reasons are, and what it takes to be moved by them, is a precondition for taking AI moral status, trust, and explainability seriously.
 - The paper offers such an account and applies it symmetrically to humans and to LLMs.
 
-**Tensions / open**
-- "Moral agency requires reason-responsiveness" is asserted as a conceptual claim but is contested (Frankfurt-style hierarchical accounts, Strawson on reactive attitudes, Korsgaard on rational autonomy each give different criteria). The paper must either argue for this criterion or relativize the conclusion to it.
-- The inference from "rule-compliance ≠ moral agency" to "reason-responsiveness is what's missing" needs a step. There are intermediate options (e.g., responsiveness to reactive attitudes, possession of a self-conception). To-do: argue that reason-responsiveness is the right diagnosis, not just *a* diagnosis.
-
 **To-do**
-- Specify what work the term "moral agency" is doing. Decide whether the claim is: (a) reason-responsiveness is necessary for moral agency, (b) sufficient, (c) constitutive. The mapping to LLMs in §6 is cleanest if (a)+(c).
+- Specify what work the term "moral agency" is doing. Decide whether the claim is: (a) reason-responsiveness is necessary for moral agency, (b) sufficient, or (c) constitutive. The mapping to LLMs in §6 is cleanest if (a)+(c).
 
 ---
 
@@ -25,9 +21,6 @@ Skeleton only. Argument structure, tensions, and to-dos surfaced rather than smo
 - **Internalism**: A's reasons are constrained by A's "subjective motivational set" — desires, projects, commitments. R is a reason for A only if a sound deliberative route connects R to something A already wants. *Cf.* Williams (1981).
 - **Externalism**: Some reasons obtain independently of the agent's desires. R can be a reason for A even if no deliberative route from A's current motivations reaches R. *Cf.* Parfit (2011); Scanlon (2014); Nagel (1970).
 
-**To-do**
-- Decide whether to engage with hybrid views (Smith's *Moral Problem*, Korsgaard's constitutivism, McDowell's sensibility theory). Current draft treats the dichotomy as clean for dialectical tractability; this is a simplification the paper should acknowledge.
-
 ---
 
 ## §3. Objection to internalism — first-person phenomenology
@@ -35,14 +28,10 @@ Skeleton only. Argument structure, tensions, and to-dos surfaced rather than smo
 - **Argument**: When I judge that your pain gives me a reason to help, the reason-conferring fact in the deliberative content is *your pain* — a fact about you, not a fact about my motivational set. Internalism re-describes this as "I have a desire whose object includes your welfare." That re-description shifts the locus of justification from the world to the agent and inverts what the deliberating subject is responding to.
 
 **Tensions / open**
-- Williams's defender can reply that standing dispositional desires need not appear in deliberative content. The desire is causally necessary but phenomenologically silent: it enables the deliberation in which I attend to your pain, without itself being attended to. The objection then collapses into a complaint about *what is salient in deliberation*, not about *what reasons are*.
-- This is the most serious unanswered objection in the paper as drafted. The §3 argument as it stands does not refute Williams; it only describes a phenomenology Williams can accommodate.
+- The argument is a phenomenological observation, not a knockdown refutation. An internalist defender can reply that standing dispositional desires need not appear in deliberative content: the desire is causally necessary but phenomenologically silent, enabling deliberation in which the agent attends to your pain without itself being attended to. The §3 argument as it stands does not refute that reply; it describes a phenomenology the reply can accommodate.
 
 **To-do**
-- Strengthen §3 in one of three ways:
-  1. Argue that the dispositional-desire reply over-generates: it makes any external-looking reason internalist-compatible, draining the dispute of content.
-  2. Argue from the *normative* direction of fit: deliberation aims at getting the world right, not at cataloguing one's dispositions; internalism inverts this aim.
-  3. Concede that §3 alone does not refute internalism and rest the case against internalism on the combination of §3 + §5 (the dissolution shows internalism can be retained as a partial truth without its motivational thesis).
+- Strategy: §3 is not offered as a refutation. Its role is to register the phenomenological datum (the outward-directedness of deliberative content) that any adequate account must preserve. The case against internalism rests jointly on §3 + §5: the dissolution shows internalism can be retained as a partial truth without its motivational thesis. Williams is not refused.
 
 ---
 
@@ -50,15 +39,8 @@ Skeleton only. Argument structure, tensions, and to-dos surfaced rather than smo
 
 - **Argument**: If reasons obtain independently of any agent, how do they move anyone? Causation runs through minds. A brute external fact does not push limbs; it must engage perception, sensitivity, dispositions. Externalism either posits a sui generis "rational pull" (mysterious) or readmits the agent's psychology (collapsing toward internalism).
 
-**Tensions / open**
-- Externalists have replies the paper does not yet engage:
-  - Korsgaard: rational agents are constitutively responsive to reasons; the "pull" is not external but is the agent's own rational nature operating.
-  - McDowell: the perceptually trained sensibility *is* what makes reasons motivating; externalism is not separation but second-nature attunement.
-- These responses arguably solve the motivational gap in ways that pre-empt §5's third-way move.
-
 **To-do**
-- Address Korsgaard and McDowell explicitly. The cleanest path: argue that both responses owe an account of *how* the rational nature / sensibility comes to be in place, and that §5's Mercier–Sperber story is the best naturalistic candidate for that account. This converts §5 from "third way" to "the missing mechanism the externalists need."
-- Decide: is §5 a *rival* to externalism or a *naturalization* of it? The paper currently equivocates.
+- §4, like §3, is not offered as a refutation. The externalist intuition (reasons are world-directed) is preserved in §5b. Decide whether §5 is positioned as a *rival* to externalism or as a *naturalization* of it. The paper currently equivocates. Scanlon and Parfit are not refused.
 
 ---
 
@@ -82,32 +64,24 @@ Skeleton only. Argument structure, tensions, and to-dos surfaced rather than smo
 ### §5b. Dissolution of the dichotomy
 
 - *Internalist intuition preserved*: nothing moves the agent that does not pass through her cognitive architecture. The screening system is part of that architecture.
-- *Externalist intuition preserved*: the screening system is built to track features of situations — others' pain, consistency, fairness — so the *content* of the justifications it produces is world-directed.
+- *Externalist intuition preserved*: the *intentional content* of the justifications the screening system produces is world-directed (the agent attends to your pain, not to herself). This is a claim about the directedness of deliberative content, not about reliable truth-tracking.
 - *Single criterion*: an agent has reasons in the relevant sense iff (i) it instantiates a justification-producing-and-screening system, and (ii) that system is causally upstream of its action-generation, not merely a rendering downstream of it.
 
-**Tensions / open — these are the load-bearing weaknesses of the paper**
+**Tensions / open — load-bearing weaknesses of the paper**
 
-1. **The deflationary tension in Mercier–Sperber.** M&S's own view is partly deflationary: reasoning evolved for argumentative persuasion, is confirmation-biased, and does not paradigmatically track truth in the individual case. The paper uses their architectural claim (production + screening) to ground a content-tracking claim ("the system tracks features of situations — others' pain, fairness, consistency"). The content-tracking claim is *not obviously theirs* and may be in tension with their deflationary side. Without resolution, the paper rests on a citation that does not bear the weight placed on it.
+1. **The deflationary tension in Mercier–Sperber.** M&S's wider account is partly deflationary: reasoning evolved for argumentative persuasion, is confirmation-biased, and does not paradigmatically track truth in the individual case. The paper has weakened its earlier formulation accordingly: it no longer says the screening system "tracks features of situations," only that the *intentional content* of justifications is world-directed. Whether even this weaker claim is supported by the M&S architecture is the most significant unresolved question. *Highest priority. The framework rests on this.*
 
-2. **The "screening is causally upstream" claim is asserted, not shown.** No mechanism is given by which screening exerts causal grip on action-generation, in humans or in LLMs. The paper waves at empirical work as if it will deliver this. The actual evidence is contested: choice-blindness studies suggest screening often fails; CoT faithfulness studies in LLMs are mixed.
+2. **The "screening is causally upstream" claim is asserted, not shown.** No mechanism is given by which screening exerts causal grip on action-generation, in humans or in LLMs. The paper waves at empirical work as if it will deliver this. The actual evidence is contested: choice-blindness and confabulation results suggest screening sometimes fails.
 
-3. **The "tracks features of situations" claim is doing externalist work it has not earned.** M&S's screening operation evaluates *justifications* (their structure, their fit with audience commitments). Whether evaluating justifications amounts to *tracking world-features* is a further claim. If it does not, the externalist intuition is not preserved and §5b's dissolution fails on that side.
+3. **The internalization-without-audience step is under-argued.** It is doing the work of converting a social practice into private rationality. The mechanism is unclear. If it does not happen reliably, §5 collapses back into a story about social justification that does not deliver private practical reasoning.
 
-4. **The internalization-without-audience step is under-argued.** It is doing the work of converting a social practice into private rationality. The mechanism is unclear: imitation? rehearsal? simulation of the generalized other (Mead)? The paper currently asserts it. If it does not happen reliably, §5 collapses back into a story about social justification that does not deliver private practical reasoning.
-
-5. **The §3 objection to internalism is not refuted, only restated.** See §3 to-dos.
-
-6. **Hybrid externalists (Korsgaard, McDowell) may pre-empt the third way.** See §4 to-dos.
-
-7. **The aspect-duality framing — "causal from outside, justificatory from within" — is borrowed.** It echoes Davidson's anomalous monism, Sellars's manifest/scientific image distinction, and the personal/sub-personal distinction in cognitive science. The paper currently presents it as if it were the framework's own move. This should be acknowledged.
+4. **The §3 objection to internalism is not refuted, only restated.** See §3 to-do — handled by reframing §3 as motivation rather than refutation.
 
 **To-do (in priority order for the §5 argument)**
-- (a) Resolve the deflationary tension. Either: (i) defend a non-deflationary reading of M&S supported by the screening operation; (ii) weaken the externalist preservation claim in §5b to "the *intentional content* of justifications is world-directed" without claiming the system tracks truth; or (iii) supplement M&S with another account that delivers content-tracking (e.g., teleosemantic naturalization).
-- (b) Provide a mechanism for "screening upstream of action." Candidate: Pacherie on intentions, dual-process accounts of deliberation, model-based reinforcement learning analogs in cognitive science.
-- (c) Engage Korsgaard and McDowell. Position §5 as the naturalistic mechanism their views require.
-- (d) Defend or weaken the internalization step. Mead's generalized other and the developmental literature on perspective-taking are candidates.
-- (e) Acknowledge the borrowed aspect-duality framing.
-- (f) Decide §3's strategy (refute Williams or rest on §3+§5 jointly).
+- (a) Resolve the deflationary tension. Either: (i) defend a non-deflationary reading of M&S supported by the screening operation; (ii) retain the current weakening ("intentional content is world-directed" without claiming truth-tracking) and verify it suffices; or (iii) supplement M&S with another account that delivers content-directedness.
+- (b) Provide a mechanism for "screening upstream of action."
+- (c) Defend or weaken the internalization step.
+- (d) Confirm §3's strategy (the phenomenological datum motivates the third way; §3 is not offered as a refutation of Williams).
 
 ---
 
@@ -128,7 +102,7 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 ### §6.3 Problem for LLM-internalism — output phenomenology
 - When an LLM produces a justification ("I won't help because this could enable harm"), the content is world-directed. The internalist re-description ("the model emits this because RLHF shaped it to") evacuates the content of the justification.
 
-**Tension**: this could be sophisticated mimicry of human outward-aiming. The §3 objection in the human case at least has phenomenology to lean on; the LLM case has only output structure. Whether output structure suffices is a substantive open question.
+**Tension — load-bearing.** §6.3 is structurally parallel to §3 but meaningfully weaker. §3 leans on phenomenology; §6.3 has only output structure. But output structure is precisely what next-token prediction trained on human justificatory discourse is optimized to produce, regardless of whether anything internal corresponds to world-directedness. The mimicry concern has no equally strong counterpart in §3. The asymmetry is genuine and needs to be marked rather than smoothed over.
 
 ### §6.4 Problem for LLM-externalism — computational gap
 - The forward pass is the only causal route from input to output. An "external reason" that does not engage the computation cannot affect behavior. Same gap as in the human case.
@@ -146,7 +120,7 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 
 #### §6.5b Dissolution for LLMs
 - *Internalist intuition preserved*: nothing moves the model that does not pass through its computational architecture.
-- *Externalist intuition preserved*: the *content* of the justifications is world-directed because the system was trained on world-directed justifications.
+- *Externalist intuition preserved*: the *intentional content* of the justifications is world-directed because the system was trained on world-directed justifications. As in §5b: directedness, not reliable truth-tracking.
 - *Single criterion, applied*: an LLM has reasons iff (i) it instantiates a justification-producing-and-screening system, and (ii) that system is causally upstream of its action-generation. Same criterion as §5b. Reduces to an interpretability question.
 
 ### §6.6 Disanalogies (load-bearing — do not paper over)
@@ -157,17 +131,13 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 
 3. **Train-time vs. inference-time reason-following may come apart.** The system that *produced* the dispositions (training) reasoned in some sense (gradient descent on objectives derived from human-rated reasoning). The system *deploying* them (inference) may not. The criterion in §6.5b is ambiguous between these.
 
-4. **Output structure ≠ output etiology.** §6.3's argument that LLM justifications are "world-directed" rests on output content. But output content is precisely what next-token prediction is trained to generate, regardless of whether anything internal corresponds to it. The §3 phenomenology argument has no LLM analogue strong enough to rule out mimicry.
-
-5. **The screening mechanism is asymmetrically located.** In humans, both production and screening are inside the agent. In LLMs, screening is partly externalized into the reward model and partly internalized into the policy. Whether this counts as "the same system" or as a structural disanalogy is unresolved.
-
 **Tensions / open**
-- The disanalogies in 6.6 may be corrosive enough that the §6.5b criterion is *applicable in form but vacuous in substance*. The paper should state plainly: it is possible the right verdict is "LLMs satisfy the formal criterion without satisfying what the criterion was meant to track." This would not falsify the framework; it would localize the open question.
+- The disanalogies in §6.6 may be corrosive enough that the §6.5b criterion is *applicable in form but vacuous in substance*. The paper should state plainly: it is possible the right verdict is "LLMs satisfy the formal criterion without satisfying what the criterion was meant to track." This would not falsify the framework; it would localize the open question.
 
 **To-do**
-- (a) Engage interpretability literature on CoT faithfulness (Lanham et al. 2023; Turpin et al. 2023; Anthropic's mechanistic interpretability work). The criterion in §6.5b stands or falls on this empirical work.
+- (a) Engage interpretability work on chain-of-thought faithfulness empirically; the criterion in §6.5b stands or falls on this.
 - (b) Decide whether the disanalogies in §6.6 require a *weakening* of the symmetric criterion (e.g., "humans satisfy it paradigmatically, LLMs satisfy it in attenuated form") or an *acceptance* that LLMs may satisfy it.
-- (c) Address the train-time/inference-time ambiguity. Candidate: argue that the criterion applies only to inference-time, and that train-time reasoning is the analogue of evolutionary/developmental shaping rather than of the agent's reasoning.
+- (c) Address the train-time/inference-time ambiguity.
 - (d) Address the audience asymmetry. This may be the deepest disanalogy and may motivate a separate paper.
 
 ---
@@ -194,28 +164,20 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 ### Argumentative
 1. Resolve the M&S deflationary tension (§5 to-do (a)). **Highest priority — the framework rests on this.**
 2. Provide a mechanism for "screening causally upstream of action" (§5 to-do (b)).
-3. Engage Korsgaard and McDowell (§4 to-dos).
-4. Decide §3 strategy (refute Williams or rest on §3+§5).
-5. Engage interpretability literature on CoT faithfulness (§6 to-do (a)).
-6. Address the disanalogies in §6.6 — either weaken the criterion or accept LLM applicability with eyes open.
-7. Address train-time/inference-time ambiguity (§6 to-do (c)).
-8. Defend or weaken the internalization-without-audience step (§5 to-do (d)).
+3. Confirm §3 strategy: phenomenological datum motivating the third way, not refutation of Williams.
+4. Engage interpretability work on chain-of-thought faithfulness (§6 to-do (a)).
+5. Address the disanalogies in §6.6 — either weaken the criterion or accept LLM applicability with eyes open.
+6. Address train-time/inference-time ambiguity (§6 to-do (c)).
+7. Defend or weaken the internalization-without-audience step (§5 to-do (c)).
 
 ### Citation/scholarship
-- Williams (1981) — get the response from his later work on reasons.
+- Williams (1981).
 - Parfit (2011), Scanlon (2014), Nagel (1970).
 - Mercier & Sperber (2011, 2017). Crucially: their own claims about the function of reasoning, especially the deflationary side.
-- Korsgaard (1996, 2009).
-- McDowell (1998).
-- Smith (1994) on the moral problem (hybrid view).
-- Mead on the generalized other (for the internalization step).
-- Pacherie on intentions (for the upstream-causation mechanism).
-- Nisbett & Wilson (1977); Johansson et al. on choice blindness; Gazzaniga on split-brain.
-- Lanham et al. (2023) and Turpin et al. (2023) on CoT faithfulness.
-- Davidson (1970) on anomalous monism, for the aspect-duality framing.
+- Nisbett & Wilson (1977); choice-blindness and split-brain literature.
+- *No further authors at this stage. Additions only at the author's request.*
 
 ### Structural
-- Acknowledge the borrowed aspect-duality framing.
 - Decide on §7 inclusion.
 - Decide the scope claim about "moral agency" in §1.
 
@@ -223,4 +185,4 @@ Mirrors §§1–5 one-to-one. The mapping is structural; if it succeeds in form 
 
 ## Note for Mercier
 
-The framework leans heavily on the architectural claim from *The Enigma of Reason* (production + screening, primarily social, internalized). The point at which the paper most exceeds your view is the claim in §5b that the screening system *tracks features of situations* — others' pain, fairness, consistency. That is needed to preserve the externalist intuition and to deliver the symmetric criterion in §6.5b. The deflationary side of your view does not obviously support this. The paper would benefit greatly from your judgment on whether (a) this is a faithful extension of your view, (b) a defensible departure, or (c) a misuse. The §5 to-do (a) above is the place in the paper where this is decided.
+The framework leans heavily on the architectural claim from *The Enigma of Reason* (production + screening, primarily social, internalized). The paper has weakened its earlier formulation: it no longer asserts that the screening system *tracks* features of situations, only that the *intentional content* of justifications is world-directed (the deliberating agent attends to your pain rather than to herself). Whether even this weaker claim is a faithful extension of your view, a defensible departure, or a misuse of the architecture is the question on which the paper most needs your judgment. The §5 to-do (a) is the place in the paper where this is decided.
