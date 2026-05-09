@@ -84,6 +84,28 @@ Committed and pushed as `bced0d7`.
 
 ---
 
+## 2026-05-10 — Round 4: self-correction on the M&S "residue" framing
+
+**What Michele asked.** Why I believed the externalist move undermines the utility of the M&S move. The framing in open issue #1 (`draft1.md`) and the Note for Mercier (`skeleton.md`) suggested that grounding content-directedness in semantic externalism leaves a residual question about whether M&S is still doing independent work — phrased in the Note for Mercier as whether the externalist move "thins your contribution to the framework."
+
+**Concession.** I did not have a good reason. The framing was a residue from the earlier deflationary-tension worry, where M&S looked like it had to do truth-tracking work the externalist preservation needed. Once truth-tracking was dropped from the externalist preservation, the pressure on M&S went with it. The two moves are orthogonal, not competing:
+
+- Externalism answers the *aboutness* question: how is content fixed? Via causal-historical chains and the social division of linguistic labour.
+- M&S answers the *cognitive-operation* question: what kind of system generates and screens these contents, and when is the screening operation causally upstream of behavior?
+
+The paper's reason-responsiveness criterion in §5b/§6.5b — *iff (i) the agent instantiates production-and-screening, and (ii) screening is causally upstream of action-generation* — is entirely M&S's contribution. Without M&S there is no criterion. The earlier framing overstated the worry.
+
+**What was changed in `draft1.md`.**
+- §5b deflationary-tension note: title changed from "partially resolved" to "dissolved." Body rewritten to state the orthogonality of externalism and M&S explicitly, and to drop the "decide what role the M&S architecture is left playing" residue. The narrower question for Mercier is restated: whether the production-and-screening architecture is the right kind of cognitive operation to ground the reasons-responsive / rationalization distinction in §5a, and in particular whether screening can be causally upstream of action-generation in the way the criterion requires.
+- Open issue #1 rewritten as "dissolved" rather than "partially resolved." Drops the "what work is M&S left doing" residue. Keeps the "principled not evasive" check.
+
+**What was changed in `skeleton.md`.**
+- §5b tension 1 rewritten as "dissolved by the externalist move" with the orthogonality framing.
+- §5 to-do (a) and master to-do #1 rewritten to drop the residual "decide what role M&S plays" framing.
+- Note for Mercier rewritten: explicit orthogonality, recognition that the criterion in §5b/§6.5b is entirely M&S's contribution, and the narrower question for his judgment restated.
+
+---
+
 ## Standing principles (set during this session)
 
 - No authors are added to the documents without Michele's explicit request. If a name seems relevant, ask first; do not add silently, even in editorial notes or "tensions" lists.
